@@ -1,6 +1,7 @@
 <resources xmlns:tools="http://schemas.android.com/tools">
     <style name="Base.Theme.MyApplication" parent="Theme.MaterialComponents.DayNight.NoActionBar">
         <!-- Customize your dark theme here. -->
+        <item name="android:windowFullscreen">true</item>
         <!-- <item name="colorPrimary">@color/my_dark_primary</item> -->
     </style>
     <!-- Base application theme. -->
